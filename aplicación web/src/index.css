@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  /* Background */
+  min-width: 100%;
+  overflow-x: hidden;
+  background: #dee7fa;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+.cursor-pointer{
+  cursor: pointer;
+}

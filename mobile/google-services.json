@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225708308215",
+    "project_id": "goandrent-3990c",
+    "storage_bucket": "goandrent-3990c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225708308215:android:b34299ff63ae6a352005f2",
+        "android_client_info": {
+          "package_name": "com.gonAndRent.gonAndRent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225708308215-8klcbev8mafk7h706e7t0vegajjhmf4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgrr9-jZg2GV4AlfYmbl552hvTRScfJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225708308215-8klcbev8mafk7h706e7t0vegajjhmf4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
